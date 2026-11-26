@@ -6,8 +6,8 @@ import time
 stock = ["1101", "2330"]
 
 # 2. 填入你第 1 步和第 2 步拿到的資料（記得保留雙引號 ""）
-token = "輸入你的_bot_token"
-chat_id = "輸入你的_telegram_id"
+token = "9193820846:AAExyQiwrnctDacrv3KkPUvgExBNyIHnoWs"
+chat_id = "9178728689"
 
 for i in range(len(stock)):
     stockid = stock[i]
